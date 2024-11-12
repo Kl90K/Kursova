@@ -1,0 +1,17 @@
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\EncryptionApp.MainForm.resources
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.csproj.GenerateResource.cache
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.AssemblyInfoInputs.cache
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.AssemblyInfo.cs
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.csproj.CoreCompileInputs.cache
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.sourcelink.json
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\bin\Debug\net8.0-windows\Shifrator.exe
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\bin\Debug\net8.0-windows\Shifrator.deps.json
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\bin\Debug\net8.0-windows\Shifrator.runtimeconfig.json
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\bin\Debug\net8.0-windows\Shifrator.dll
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\bin\Debug\net8.0-windows\Shifrator.pdb
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.dll
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\refint\Shifrator.dll
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.pdb
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\Shifrator.genruntimeconfig.cache
+C:\Users\Admin555\source\repos\Shifrator\Shifrator\obj\Debug\net8.0-windows\ref\Shifrator.dll
